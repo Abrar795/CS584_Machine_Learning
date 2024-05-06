@@ -1,5 +1,5 @@
 In this project, we analyzed the housing prices in Boston by working with the Boston Housing 
-Dataset from Kaggle [1]. Our objective was to accurately predict the median house value 
+Dataset from Kaggle. Our objective was to accurately predict the median house value 
 based on the provided input features. We successfully addressed missing data, mitigated 
 skewness in feature distributions, and conducted correlation analyses to guide feature selection 
 judiciously. Dimensionality reduction strategies were employed to gain a deeper 
